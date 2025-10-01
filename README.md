@@ -21,3 +21,7 @@ To keep things organized, I put all the file-handling logic inside a class calle
 I ran and tested the program using Visual Studio Code (VS Code), which is a code editor that makes it easy to write, compile, and run C++ programs. It has a built-in terminal, so I could see the output right away and make changes quickly.
 
 Overall, this project helped me understand how C++ interacts with files and how to build a simple user interface in the terminal. It’s a solid starting point for more advanced tools, like file search, deletion, or even working with binary files.
+
+*OUTPUT* <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/401a8a1c-9971-45b2-844f-ab3fa4b8e0f5" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9ae2218d-8b90-49ab-86dd-f526294efa0d" />
